@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="0.5dp"
+    android:paddingLeft="@dimen/userinfo_line_distance"
+    android:paddingRight="@dimen/userinfo_line_distance"
+    android:src="@color/userinfo_manage_bg" 
+    android:contentDescription="@string/app_name"
+    android:background="@color/white">
+</ImageView>

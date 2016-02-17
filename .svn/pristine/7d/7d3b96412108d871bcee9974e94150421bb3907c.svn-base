@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lv_list"
+    android:layout_width="140dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="55dp"
+    android:layout_marginBottom="70dp"
+    android:layout_alignParentRight="true"
+    android:visibility="invisible"
+    android:background="@color/black" />

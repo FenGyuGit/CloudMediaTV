@@ -1,0 +1,18 @@
+<html>
+
+<body id="mybody">
+
+
+<div id="xx">
+dsafdasfasd
+</div>
+</body>
+<script type="text/javascript">
+var result = "aaaaaaa";
+result= window.WiFiTvWebViewFunc.getUserId();
+console.log(result);
+var div1 = document.getElementById("xx");
+document.write(result);
+</script>
+
+</html>
